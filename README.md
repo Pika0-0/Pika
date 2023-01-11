@@ -1,2 +1,0 @@
-# Pika
-Hebergement gratuit
